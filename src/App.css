@@ -1,0 +1,13 @@
+/* div {
+  border: 2px solid black;
+} */
+.App {
+  height: 100vh;
+  /* width: 100vw; */
+  background: black;
+  background-image: linear-gradient(rgba(8, 8, 8, 0.6), rgba(7, 7, 7, 0.6)),
+    url(hero-min.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
